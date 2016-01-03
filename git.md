@@ -1,7 +1,9 @@
 http://www.aloop.org/2010/11/27/from-mercurial-to-git-commands-mapping/
 
+~~~
 $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
+~~~
 
 ```
 # add to .gitconfig for git lg / git lg2 (thg-like branch display)
